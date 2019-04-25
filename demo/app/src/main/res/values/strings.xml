@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="vibrate">vibrate</string>
+    <string name="vibration_notifications">Vibration</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="audio_notifications">Audio</string>
+</resources>
